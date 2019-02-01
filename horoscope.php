@@ -6,12 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-  	<link rel="stylesheet" href="css/carte.css" />
 
   	<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 
-	<script src="js/tarot.js"></script>
-  	<script src="js/deck.js"></script>
+	
   	<title>Galaxy Voyance|Horoscope by Remy Wilmet</title>
 
     <!-- Bootstrap core CSS -->
